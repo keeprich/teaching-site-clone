@@ -54,7 +54,7 @@ nav{
       
       .ima {
         display: block;
-        width: 450vw;
+        width: 350px;
         height: auto;
       }
       
@@ -67,7 +67,7 @@ nav{
         left: 0;
         right: 0;
         height: 100%;
-        width: 450vw;
+        width: 350px;
         opacity: 0.4;
         transition: .5s ease;
         background-color: #008CBA;
