@@ -127,6 +127,11 @@ nav{
       /*  */
        
       /* CUSTOMER REVIEW */
+.reve_head {
+    color:rgb(248, 60, 2);
+}
+
+
       .cus_review {
 background-color: #000000;
 padding-top: 50px;     
